@@ -1,3 +1,3 @@
-public class Subscriber {
-
+interface Subscriber {
+	public void benachrichtigung(Ausgabe a); 
 }
